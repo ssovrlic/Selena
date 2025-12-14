@@ -1,6 +1,15 @@
 Hi there
+
+
 I'm Selena -> Python Developer
+
+
+
 Interested in Data Science, QA & Software Testing and Cyber Security
+
+
+
+
 
 ## Tech stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
